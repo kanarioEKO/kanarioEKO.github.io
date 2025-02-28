@@ -2,10 +2,6 @@
 layout: default
 ---
 
-- There should be whitespace between paragraphs.
-
-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # About Me
 Lorem ipsum la di da di da.
 

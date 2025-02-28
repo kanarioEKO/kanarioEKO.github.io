@@ -110,14 +110,13 @@ end
 <dd>Green</dd>
 </dl>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-
-<a href="https://github.com/kanarioEKO" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-github" style="font-size: 30px; color: black;"></i>
+<a href="https://github.com/kanarioEKO" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
 </a>
 <a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
-    <i class="fab fa-linkedin" style="font-size: 30px; color: #0077B5;"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a>
+
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.

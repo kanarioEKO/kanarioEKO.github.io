@@ -8,7 +8,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Certificates
 <a href="https://www.credly.com/badges/dc2ddaca-f14c-4ab3-8916-350e33b230a2/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/kanarioEKO/kanarioEKO.github.io/main/SecurityPlusCertified.jpg" alt="CompTIA Security+" width="100">
+    <img src="https://raw.githubusercontent.com/kanarioEKO/kanarioEKO.github.io/main/SecurityPlusLogoCertified.jpg" alt="CompTIA Security+" width="100">
 </a>
 
 

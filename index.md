@@ -2,15 +2,6 @@
 layout: default
 ---
 
-<a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/kanarioEKO" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
-</a>
-
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -124,5 +115,11 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+<a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/kanarioEKO" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
+</a>
 ```

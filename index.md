@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 
-[Link to another page](www.linkedin.com/in/kanario-o-454984243).
+[Link to another page](./www.linkedin.com/in/kanario-o-454984243).
 
 There should be whitespace between paragraphs.
 

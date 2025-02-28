@@ -121,6 +121,10 @@ end
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a>
 
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -136,8 +140,8 @@ end
             gap: 20px; /* Spacing between icons */
         }
         img {
-            width: 50px; /* Adjust size */
-            height: auto;
+            width: 40px; /* Adjust size */
+            height: 40px;
         }
     </style>
 </head>

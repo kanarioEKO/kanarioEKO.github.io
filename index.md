@@ -110,6 +110,7 @@ end
 <dd>Green</dd>
 </dl>
 
+### Socials
 <a href="https://github.com/kanarioEKO" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
 </a>

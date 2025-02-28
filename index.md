@@ -6,11 +6,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Projects
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Virtual Home Lab
 
 > This is a blockquote following a header.
 >
@@ -110,11 +110,6 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
 <a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
 </a>
@@ -122,4 +117,11 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 <a href="https://github.com/kanarioEKO" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
 </a>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+This is the final element.
 ```

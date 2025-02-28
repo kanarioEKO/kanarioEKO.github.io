@@ -15,6 +15,7 @@ Lorem ipsum la di da di da.
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Virtual Home Lab
+> Running Active Directory in VirtualBox and adding users with PowerShell
 
 > This is a blockquote following a header.
 >
@@ -120,45 +121,6 @@ end
 <a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a>
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Social Links</title>
-    <style>
-        .center-icons {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Centers vertically */
-            gap: 20px; /* Spacing between icons */
-        }
-        img {
-            width: 40px; /* Adjust size */
-            height: 40px;
-        }
-    </style>
-</head>
-<body>
-
-<div class="center-icons">
-    <a href="https://github.com/kanarioEKO" target="_blank">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-    </a>
-</div>
-
-</body>
-</html>
-
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.

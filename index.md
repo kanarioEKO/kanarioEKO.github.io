@@ -6,9 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+<a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
+</a>
 
-
-[Link to another page](./www.linkedin.com/in/kanario-o-454984243).
 
 There should be whitespace between paragraphs.
 

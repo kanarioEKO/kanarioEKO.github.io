@@ -2,11 +2,7 @@
 layout: default
 ---
 
-
-
-
-
-
+Lorem ipsum cause there needs to be a sentence between above and what's below cause uhhh.
 
 # About Me
 Lorem ipsum la di da di da.

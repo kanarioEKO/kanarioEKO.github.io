@@ -7,6 +7,9 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Certificates
+<a href="[https://www.credly.com/badges/your-badge-id](https://www.credly.com/badges/dc2ddaca-f14c-4ab3-8916-350e33b230a2/linked_in_profile)" target="_blank">
+    <img src="https://raw.githubusercontent.com/kanarioEKO/kanarioEKO.github.io/main/SecurityPlus_Logo_Certified_CE.jpg" alt="CompTIA Security+ Badge" width="100">
+</a>
 
 
 # Projects

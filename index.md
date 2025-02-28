@@ -2,15 +2,13 @@
 layout: default
 ---
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# About Me
+Lorem ipsum la di da di da.
 
 # Certificates
 <a href="https://www.credly.com/badges/dc2ddaca-f14c-4ab3-8916-350e33b230a2/public_url" target="_blank">
     <img src="https://raw.githubusercontent.com/kanarioEKO/kanarioEKO.github.io/main/SecurityPlusLogoCertified.jpg" alt="CompTIA Security+" width="100">
 </a>
-
 
 # Projects
 
@@ -116,13 +114,46 @@ end
 <dd>Green</dd>
 </dl>
 
-### Socials
 <a href="https://github.com/kanarioEKO" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
 </a>
 <a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Social Links</title>
+    <style>
+        .center-icons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Centers vertically */
+            gap: 20px; /* Spacing between icons */
+        }
+        img {
+            width: 50px; /* Adjust size */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="center-icons">
+    <a href="https://github.com/kanarioEKO" target="_blank">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/kanario-o-454984243/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+    </a>
+</div>
+
+</body>
+</html>
 
 
 ```

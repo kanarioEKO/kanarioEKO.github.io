@@ -19,9 +19,10 @@ Lorem ipsum intro.
 ## Virtual Home Lab (Oracle VirtualBox)
 > Implemented a basic home lab to simulate a mini corporate network environment. Configured and deployed Active Directory (Windows Server 2019) to manage network resources and authentication. Automated user account creation using a PowerShell script and manually established a domain administrator account for centralised management and administrative control. Additionally, set up a Windows client to test connectivity and user authentication within the domain environment.
 >
-<figure>
+
+<figure style="text-align: center;">
     <img src="https://raw.githubusercontent.com/kanarioEKO/kanarioEKO.github.io/main/NetworkDiagram.png" alt="Network Diagram">
-    <figcaption>Figure 1: Courtesy of Josh Madakor</figcaption>
+    <figcaption style="font-style: italic;">Figure 1: Courtesy of Josh Madakor</figcaption>
 </figure>
 
 
